@@ -10,7 +10,6 @@ Josue Solano
 Video of LED being controlled by toggle
 
 ### Changed
-...
+
 
 ### Removed
-...
